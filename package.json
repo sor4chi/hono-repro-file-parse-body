@@ -1,0 +1,13 @@
+{
+  "name": "hono-repro-file-parse-body",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "hono": "^3.7.2"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.5",
+    "vitest-environment-miniflare": "^2.14.1"
+  }
+}
